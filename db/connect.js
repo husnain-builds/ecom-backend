@@ -1,11 +1,15 @@
-const mongoose = require("mongoose");
+const mongoose = require ("mongoose");
+const dotenv = require("dotenv");
 
-
-uri = "mongodb+srv://admin:IZpEm66RDo1e1pb5@cluster0.oxapm6k.mongodb.net/ecommerce?retryWrites=true&w=majority&appName=Cluster0"
-
+dotenv.config();
 
 const connectDB = () =>{
-    mongoose.connect(uri)
+   try {
+       mongoose.connect(process.env.MONGO_URL)
+       console.log("✅ MongoDB connected");
+    } catch (error) {
+        console.error("❌ MongoDB connection error:", err)
+    } 
 }
 
 module.exports = connectDB;

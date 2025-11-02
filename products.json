@@ -1,0 +1,178 @@
+[
+    {
+        "name": "Apple iPhone 14 Pro (128GB)",
+        "description": "Apple's 6.1-inch iPhone with A16 Bionic, ProMotion 120Hz display, and a triple-camera system tuned for low-light photography.",
+        "images": [
+            {
+                "url": "https://via.placeholder.com/600/1f1f1f",
+                "alt": "Apple iPhone 14 Pro front and back"
+            }
+        ],
+        "price": 999,
+        "category": "phone",
+        "reviews": [
+            { "comment": "Super fast and great camera.", "rating": 5 },
+            { "comment": "Battery lasts all day.", "rating": 4 }
+        ]
+    },
+    {
+        "name": "Samsung Galaxy S23 (128GB)",
+        "description": "Compact Android flagship with Snapdragon 8 Gen 2, bright 120Hz AMOLED, and sharp day and night photos.",
+        "images": [
+            {
+                "url": "https://via.placeholder.com/600/2b5797",
+                "alt": "Samsung Galaxy S23 in phantom black"
+            }
+        ],
+        "price": 799,
+        "category": "phone",
+        "reviews": [
+            { "comment": "Amazing display quality.", "rating": 5 },
+            { "comment": "Speakers could be louder.", "rating": 4 }
+        ]
+    },
+    {
+        "name": "Google Pixel 8 (128GB)",
+        "description": "Pixel with Tensor G3, clean Android, and industry-leading computational photography for stunning portraits and night shots.",
+        "images": [
+            {
+                "url": "https://via.placeholder.com/600/6aa84f",
+                "alt": "Google Pixel 8 in hazel"
+            }
+        ],
+        "price": 699,
+        "category": "phone",
+        "reviews": [
+            { "comment": "Best photos I've taken on a phone.", "rating": 5 },
+            { "comment": "Very smooth UI.", "rating": 4 }
+        ]
+    },
+    {
+        "name": "OnePlus 11 (256GB)",
+        "description": "Performance-focused smartphone with Snapdragon 8 Gen 2, 100W fast charging, and Hasselblad-tuned cameras.",
+        "images": [
+            {
+                "url": "https://via.placeholder.com/600/38761d",
+                "alt": "OnePlus 11 green colorway"
+            }
+        ],
+        "price": 729,
+        "category": "phone",
+        "reviews": [
+            { "comment": "Charges insanely fast!", "rating": 5 },
+            { "comment": "Great value flagship.", "rating": 4 }
+        ]
+    },
+    {
+        "name": "Sony WH-1000XM5 Wireless Headphones",
+        "description": "Premium over-ear noise-canceling headphones with outstanding sound, comfort, and multi-point Bluetooth connectivity.",
+        "images": [
+            {
+                "url": "https://via.placeholder.com/600/434343",
+                "alt": "Sony WH-1000XM5 headphones in black"
+            }
+        ],
+        "price": 348,
+        "category": "headphones",
+        "reviews": [
+            { "comment": "Best ANC I've used.", "rating": 5 },
+            { "comment": "Very comfortable for long flights.", "rating": 5 }
+        ]
+    },
+    {
+        "name": "Apple MacBook Air 13-inch (M2, 8GB/256GB)",
+        "description": "Ultralight laptop with Apple's M2 chip, fanless design, all-day battery, and a bright Liquid Retina display.",
+        "images": [
+            {
+                "url": "https://via.placeholder.com/600/cc0000",
+                "alt": "MacBook Air M2 open on a desk"
+            }
+        ],
+        "price": 1099,
+        "category": "laptop",
+        "reviews": [
+            { "comment": "Silent and powerful.", "rating": 5 },
+            { "comment": "Great battery life.", "rating": 5 }
+        ]
+    },
+    {
+        "name": "Dell XPS 13 (12th Gen i7, 16GB/512GB)",
+        "description": "Premium 13-inch ultrabook with near-borderless display, solid performance, and elegant build quality.",
+        "images": [
+            {
+                "url": "https://via.placeholder.com/600/0b5394",
+                "alt": "Dell XPS 13 silver on table"
+            }
+        ],
+        "price": 1299,
+        "category": "laptop",
+        "reviews": [
+            { "comment": "Fantastic screen and keyboard.", "rating": 4 },
+            { "comment": "Runs cool and quiet.", "rating": 4 }
+        ]
+    },
+    {
+        "name": "Apple iPad Air (M1, 64GB Wi‑Fi)",
+        "description": "Thin and light tablet powered by the M1 chip, great for note-taking, drawing, and everyday use.",
+        "images": [
+            {
+                "url": "https://via.placeholder.com/600/674ea7",
+                "alt": "Apple iPad Air with Apple Pencil"
+            }
+        ],
+        "price": 599,
+        "category": "tablet",
+        "reviews": [
+            { "comment": "Perfect for school.", "rating": 5 },
+            { "comment": "Excellent performance for the size.", "rating": 4 }
+        ]
+    },
+    {
+        "name": "Apple Watch Series 9 (GPS, 41mm)",
+        "description": "Smartwatch with advanced health sensors, bright display, and seamless iPhone integration for fitness and notifications.",
+        "images": [
+            {
+                "url": "https://via.placeholder.com/600/f1c232",
+                "alt": "Apple Watch Series 9 on wrist"
+            }
+        ],
+        "price": 399,
+        "category": "wearable",
+        "reviews": [
+            { "comment": "Great fitness tracking.", "rating": 4 },
+            { "comment": "Siri is responsive.", "rating": 4 }
+        ]
+    },
+    {
+        "name": "Nintendo Switch OLED Model",
+        "description": "Hybrid game console with a vibrant 7-inch OLED screen, enhanced audio, and a wide adjustable stand for tabletop play.",
+        "images": [
+            {
+                "url": "https://via.placeholder.com/600/3d85c6",
+                "alt": "Nintendo Switch OLED console and Joy-Cons"
+            }
+        ],
+        "price": 349,
+        "category": "gaming",
+        "reviews": [
+            { "comment": "OLED screen looks stunning.", "rating": 5 },
+            { "comment": "Family loves it.", "rating": 5 }
+        ]
+    },
+    {
+        "name": "Logitech MX Master 3S Wireless Mouse",
+        "description": "Ergonomic wireless mouse with ultra-precise 8K DPI sensor, MagSpeed scrolling, and multi-device pairing.",
+        "images": [
+            {
+                "url": "https://via.placeholder.com/600/7f6000",
+                "alt": "Logitech MX Master 3S side profile"
+            }
+        ],
+        "price": 99,
+        "category": "accessories",
+        "reviews": [
+            { "comment": "Best productivity mouse.", "rating": 5 },
+            { "comment": "Comfortable all day.", "rating": 4 }
+        ]
+    }
+]
